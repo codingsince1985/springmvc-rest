@@ -6,4 +6,5 @@ With same domain object, RestController generates corresponding response by acce
 Set header
 - Accept: application/json, or
 - Accept: application/xml
+
 and send GET request to [http://localhost:8080/springmvc-rest-0.0.1-SNAPSHOT/customer/1](http://localhost:8080/springmvc-rest-0.0.1-SNAPSHOT/customer/1)
